@@ -1,4 +1,11 @@
-MatrixonGPU
-===========
 
-LinerAlgebra on GPU(CUDA-5.0)
+Liner algebra on CUDA(GPU)
+
+Function-
+Vector ADD
+Vector SUB
+Vector DOT
+Matrix ADD
+Matrix SUB
+Matrix MUL
+
